@@ -1,0 +1,3 @@
+# AndroidProject
+
+basic NotePad application
